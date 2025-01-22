@@ -8,5 +8,5 @@ fn main() {
 }
 
 fn call_me(){
-    println!("I'm a rust");
+    println!("I'm a rust！");
 }
